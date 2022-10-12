@@ -5,7 +5,7 @@ Useful codes applied to agronomic research in wheat crops.
 MEMBERS
 
 Dr. Romulo P Lollato
-
+Dr. Peng Chen
 Ing. Agr. Nicolas Giordano
 
 ...
